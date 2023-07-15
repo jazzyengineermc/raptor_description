@@ -84,6 +84,9 @@
 <gazebo reference="bucket">
   <material>Gazebo/Blue</material>
 </gazebo>
+<gazebo reference="head">
+  <material>Gazebo/Yellow</material>
+</gazebo>
 <gazebo reference="pvc_horizontal">
   <material>Gazebo/Yellow</material>
 </gazebo>
