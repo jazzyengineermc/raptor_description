@@ -65,6 +65,8 @@
       </script>
     </material>
   </visual>
+  <mu1>0.001</mu1>
+  <mu2>0.001</mu2>
 </gazebo>
 <gazebo reference="lwheel">
   <material>Gazebo/Black</material>
@@ -76,6 +78,9 @@
   <material>Gazebo/Black</material>
   <mu1>0.001</mu1>
   <mu2>0.001</mu2>
+</gazebo>
+<gazebo reference="caster_rear_visual">
+  <material>Gazebo/Black</material>
 </gazebo>
 <gazebo reference="bucket">
   <material>Gazebo/Blue</material>
